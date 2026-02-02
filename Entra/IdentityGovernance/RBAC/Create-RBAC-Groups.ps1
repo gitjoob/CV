@@ -90,7 +90,7 @@
 
 .PARAMETER subname
     The name of the Azure subscription (prompted at runtime)
-    Example: "sub-onsite-prod-02"
+    Example: "sub-work-prod-01"
 
 .EXAMPLE
     .\Create-rbac-Groups.ps1
